@@ -45,6 +45,7 @@ Author: UIdeck
   padding-bottom: 30px;
   }
 
+
 #myImage {
   width: 100%;
   height: auto;
@@ -63,6 +64,18 @@ margin-right: 120px !important;
   font-size: 24px;
 }
 
+.method{
+padding: 30px 0 30px;
+color: #14213D;
+font-size: 38px !important;
+}
+v{
+  color: #FCA311;
+}
+
+.blueback{
+  background-image: linear-gradient(to bottom left,white,white, #8DC8FF);
+  }
 
 /* ============================= 
     COMMON CSS
@@ -2131,8 +2144,7 @@ p {
   position: relative;
   z-index: 1;
   overflow: hidden;
-  border-radius: 4px;
-}
+  }
 
 .contact-style-1 .contact-form-wrapper form .single-input {
   position: relative;
