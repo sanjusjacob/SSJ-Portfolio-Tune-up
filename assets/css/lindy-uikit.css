@@ -8,7 +8,7 @@ Author: UIdeck
 /* =========== GOOGLE FONTS ========= */
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&family=Heebo:wght@300;400;500;600;700;800;900&display=swap");
 
-/* My changes to TuneUp page */
+/* My custom css - TuneUp page */
 .hero-content-wrapper{
   margin-top: 150px;
 }
@@ -77,6 +77,20 @@ v{
   background-image: linear-gradient(to bottom left,white,white, #8DC8FF);
   }
 
+#thankYou{
+  font-family: 'Brush Script MT'; 
+  font-size: 100px !important; 
+  color:#FCA311; 
+  text-align: center;
+}
+
+.portfolio{
+  margin-bottom: 25px;
+  margin-left: 211px;
+}
+
+
+
 /* ============================= 
     COMMON CSS
 ================================ */
@@ -127,7 +141,8 @@ button {
 }
 
 #myBtn:hover {
-  background-color: rgb(182, 180, 180); /* Add a dark-grey background on hover */
+  background-color: #2F80ED; /* Add a blue background on hover */
+  color: white;
 }
 
 .portfolio{
