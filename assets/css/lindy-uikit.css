@@ -9,6 +9,14 @@ Author: UIdeck
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&family=Heebo:wght@300;400;500;600;700;800;900&display=swap");
 
 /* My custom css - TuneUp page */
+
+#name{ 
+font-family:'Brush Script MT';
+font-weight: 800;
+font-size: 24px;
+color: #14213D;
+}
+
 .hero-content-wrapper{
   margin-top: 150px;
 }
